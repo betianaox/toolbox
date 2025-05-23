@@ -1,0 +1,37 @@
+# === FRONTEND: React ===
+frontend/node_modules/
+frontend/.pnp
+frontend/.pnp.js
+frontend/coverage/
+frontend/build/
+frontend/.DS_Store
+
+# Archivos de entorno (React)
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# Logs y errores
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# === BACKEND: API Node.js ===
+api/node_modules/
+api/.DS_Store
+api/build/
+api/coverage/
+
+# Archivos de entorno (API)
+api/.env
+api/.env.local
+api/.env.development.local
+api/.env.test.local
+api/.env.production.local
+
+# Logs y errores
+api/npm-debug.log*
+api/yarn-debug.log*
+api/yarn-error.log*
