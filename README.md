@@ -1,4 +1,4 @@
-# 🧰 toolBox Challenge
+# 🧰 Toolbox Challenge
 
 Este proyecto contiene una solución completa (frontend + backend) para el challenge de ToolBox, desarrollada con React y Node.js. Todo el entorno está dockerizado para facilitar la ejecución y el despliegue.
 
