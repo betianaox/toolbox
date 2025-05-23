@@ -7,7 +7,7 @@ Este proyecto contiene una solución completa (frontend + backend) para el chall
 ## 📦 Estructura del Proyecto
 
 ```
-/toolBox
+/toolbox
 │
 ├── /api               # Backend en Node.js (Express)
 ├── /frontend          # Frontend en React + Redux
@@ -25,7 +25,7 @@ Este proyecto contiene una solución completa (frontend + backend) para el chall
 - [Docker](https://www.docker.com/) y [Docker Compose](https://docs.docker.com/compose/)
 
 ### Paso a paso:
-Desde la raíz del proyecto (`/toolBox`), ejecutá:
+Desde la raíz del proyecto (`/toolbox`), ejecutá:
 
 ```bash
 docker compose up --build
